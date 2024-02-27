@@ -1,16 +1,8 @@
-# flutter_blue_app
+# Flutter App for lab 2 CS 437
 
-a chat app with the arduino or raspberry pi via Bluetooth
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Steps
+- Clone the repository.
+- Download the dependencies for Flutter_server.py.
+- Update your IP Address and Port on both the server and the app.
+- Run the Flutter_server.py script on your rasberry pi.
+- Run the app on your Android device
