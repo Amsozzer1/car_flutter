@@ -58,7 +58,7 @@ class _MainPage extends State<MainPage> {
                 onPressed: () async {
                   if (_device != null) {
                     print('Connect -> selected ' + _device.address);
-                    _startChat(context, _device);
+                    _startApp(context, _device);
                   } else {
                     print('Connect -> no device selected');
                   }
